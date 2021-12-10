@@ -6,4 +6,7 @@
 
 ## Data management
 
+![Screenshot from 1880 census](media/1880-census.png)
+
+
 ## Research
