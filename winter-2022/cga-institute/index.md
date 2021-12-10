@@ -1,6 +1,6 @@
 # Harvard Map Collection
 
-![Photograph of the Harvard Map Collection](media/map-collection)
+![Photograph of the Harvard Map Collection](media/map-collection.png)
 
 ## Classes
 
