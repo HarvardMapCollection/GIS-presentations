@@ -19,10 +19,10 @@
 
 ![Photograph of the Harvard Map Collections](media/map-collection.png)
 
-Belle Lipton
-GIS Outreach Librarian
-Harvard Map Collection 
-[belle_lipton@harvard.edu](mailto:belle_lipton@harvard.edu)
+- Belle Lipton
+- GIS Outreach Librarian
+- Harvard Map Collection 
+- [belle_lipton@harvard.edu](mailto:belle_lipton@harvard.edu)
 
 ## Getting started in ten minutes activity
 
