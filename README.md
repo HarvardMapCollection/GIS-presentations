@@ -1,7 +1,3 @@
-# GIS Presentations
-
-Please find the URLs for class visit materials.
-
 # Menu
 
 ## Winter 2022
