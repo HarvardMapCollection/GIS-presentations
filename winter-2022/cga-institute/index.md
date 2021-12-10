@@ -1,4 +1,4 @@
-# Mapping Support from the Harvard Map Collection
+# Harvard Map Collection
 
 ## Classes
 
