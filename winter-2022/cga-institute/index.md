@@ -1,7 +1,7 @@
 # Harvard Map Collection
 
 ![Screenshot from an article about the Map Collection](media/intro.png)
-*[Article about the](https://www.thecrimson.com/article/2016/4/21/map-collections/) Harvard Map Collection.* 
+
 
 ## Classes
 
