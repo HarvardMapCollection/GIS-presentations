@@ -15,5 +15,7 @@
 ## Research
 ![Student project map showing Indian restaurants in London](media/jess-map.png)
 
+![Photograph of a collections item](media/restaurant.png)
+
 ![Screenshot from Harvard online library catalog](media/climate-reactions.png)
 *Record from  [Harvard Map Collection card catalog](https://iiif.lib.harvard.edu/manifests/view/drs:45555303$402i).* 
