@@ -5,7 +5,7 @@
 
 ## Classes
 ![Animation of presentation given to GSD students](media/spatial-analysis.gif)
-*[Fall 2021 presentation](https://docs.google.com/presentation/d/141irEQNA3_SAY2sWqDPoZAheSil0gZZR7yfGWNJhVKg/edit#slide=id.gea70bf8953_0_22)* 
+*[Fall 2021 presentation](https://docs.google.com/presentation/d/141irEQNA3_SAY2sWqDPoZAheSil0gZZR7yfGWNJhVKg/edit#slide=id.gea70bf8953_0_22).* 
 
 ![Map created by GSD students](media/spatial-analysis.png)
 *Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students working with the Map Collection.* 
@@ -15,6 +15,10 @@
 
 ![Screenshot from 1880 census](media/1880-census.png)
 *1880 census from [Archive.org](https://archive.org/details/10thcensus0561unit/page/n45/mode/2up?view=theater).* 
+
+
+![Screenshot from Harvard Geospatial Library](media/spatial-analysis.gif)
+*[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
 
 
 
