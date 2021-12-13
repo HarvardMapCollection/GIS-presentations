@@ -4,7 +4,10 @@
 *[Crimson article about the](https://www.thecrimson.com/article/2016/4/21/map-collections/) Map Collection.* 
 
 ## Classes
-![Map created by GSD students](media/intro.png)
+![Animation of presentation given to GSD students](media/spatial-analysis.gif)
+*[Fall 2021 presentation](https://docs.google.com/presentation/d/141irEQNA3_SAY2sWqDPoZAheSil0gZZR7yfGWNJhVKg/edit#slide=id.gea70bf8953_0_22)* 
+
+![Map created by GSD students](media/spatial-analysis.png)
 *Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students working with the Map Collection.* 
 
 
