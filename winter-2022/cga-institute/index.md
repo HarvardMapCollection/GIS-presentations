@@ -4,6 +4,9 @@
 *[Crimson article about the](https://www.thecrimson.com/article/2016/4/21/map-collections/) Map Collection.* 
 
 ## Classes
+![Map created by GSD students](media/intro.png)
+*Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students working with the Map Collection.* 
+
 
 ## Data management
 
