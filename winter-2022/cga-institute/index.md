@@ -1,7 +1,7 @@
 # Harvard Map Collection
 
 ![Screenshot from an article about the Map Collection](media/intro.png)
-*[Crimson article about the](https://www.thecrimson.com/article/2016/4/21/map-collections/) Map Collection.* 
+*[Article about the](https://www.thecrimson.com/article/2016/4/21/map-collections/) Harvard Map Collection.* 
 
 ## Classes
 ![Animation of presentation given to GSD students](media/spatial-analysis.gif)
@@ -29,3 +29,7 @@
 
 ![Screenshot from Harvard online library catalog](media/climate-reactions.png)
 *Record from  [Harvard Map Collection card catalog](https://iiif.lib.harvard.edu/manifests/view/drs:45555303$402i).* 
+
+## Contact
+
+- maps@harvard.edu
