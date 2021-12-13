@@ -15,6 +15,9 @@
 
 ### Engligh: City Fictions
 
+![Screenshot of course page syllabus](media/city-fictions.png)
+*City Fictions syllabus.* 
+
 ![Screenshot of a storymap](media/camden-nightlife.png)
 *[Storymap](https://storymaps.arcgis.com/stories/29f325491029422290d8e014f2929862) by Sadia Demby.* 
 
