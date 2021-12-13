@@ -11,7 +11,7 @@
 
 
 ![Map created by GSD students](media/spatial-analysis.png)
-*Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students working with the Map Collection.* 
+*Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students Aeshna Prasad, Michael Lidwin, Megan Mcglinchey, and Mehvish Jamal working with the Map Collection.* 
 
 ### Engligh: City Fictions
 
@@ -20,6 +20,9 @@
 
 ![Screenshot of a storymap](media/camden-nightlife.png)
 *[Storymap](https://storymaps.arcgis.com/stories/29f325491029422290d8e014f2929862) by Sadia Demby.* 
+
+![Screenshot of a choropleth map](media/pct-by-foot.png)
+*Map made by City Fictions student Isabel Giovannetti.* 
 
 
 ## Data management
