@@ -11,6 +11,10 @@
 *Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students working with the Map Collection.* 
 
 
+![Screenshot of a storymap](media/camden-nightlife.png)
+*Storymap (https://storymaps.arcgis.com/stories/29f325491029422290d8e014f2929862) by Sadia Demby.* 
+
+
 ## Data management
 
 ![Screenshot from 1880 census](media/1880-census.png)
