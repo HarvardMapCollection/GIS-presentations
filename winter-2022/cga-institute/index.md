@@ -4,15 +4,19 @@
 *[Article about the](https://www.thecrimson.com/article/2016/4/21/map-collections/) Harvard Map Collection.* 
 
 ## Classes
+
+### GSD: Spatial Analysis
 ![Animation of presentation given to GSD students](media/spatial-analysis.gif)
 *[Fall 2021 presentation](https://docs.google.com/presentation/d/141irEQNA3_SAY2sWqDPoZAheSil0gZZR7yfGWNJhVKg/edit#slide=id.gea70bf8953_0_22).* 
+
 
 ![Map created by GSD students](media/spatial-analysis.png)
 *Map [created by](https://mapping.share.library.harvard.edu/blog/2021/vis-2128/) GSD students working with the Map Collection.* 
 
+### Engligh: City Fictions
 
 ![Screenshot of a storymap](media/camden-nightlife.png)
-*Storymap (https://storymaps.arcgis.com/stories/29f325491029422290d8e014f2929862) by Sadia Demby.* 
+*[Storymap](https://storymaps.arcgis.com/stories/29f325491029422290d8e014f2929862) by Sadia Demby.* 
 
 
 ## Data management
