@@ -17,7 +17,7 @@
 *1880 census from [Archive.org](https://archive.org/details/10thcensus0561unit/page/n45/mode/2up?view=theater).* 
 
 
-![Screenshot from Harvard Geospatial Library](media/spatial-analysis.gif)
+![Screenshot from Harvard Geospatial Library](media/volcanoes.png)
 *[Global volcanoes dataset](https://hgl.harvard.edu/catalog/harvard-glb-volc) in the Harvard Geospatial Library (HGL).* 
 
 
