@@ -29,6 +29,9 @@
 
 ## Data management
 
+![Screen recording of New York Public Library app OldNYC](media/oldnyc.gif)
+*[OldNYC: Mapping Historic Photographs at the NYPL](https://www.oldnyc.org/).* 
+
 ![Screenshot from 1880 census](media/1880-census.png)
 *1880 census from [Archive.org](https://archive.org/details/10thcensus0561unit/page/n45/mode/2up?view=theater).* 
 
