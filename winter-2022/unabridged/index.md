@@ -6,9 +6,8 @@
 
 ![Social Explorer screen recording of exporting a map as a .PNG](media/png.gif)
 
-![ArcGIS Online screen recording of an unsuccessful data search](media/search.gif)
-
 ![Example census map that required downloading the data](media/example.png)
+_Map created from [the PointsUnknown tutorial series](https://pointsunknown.nyc/tutorial_list/), a great way to get started learning how to make maps._
 
 
 ## Planning ahead
