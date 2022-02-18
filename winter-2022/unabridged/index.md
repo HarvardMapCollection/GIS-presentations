@@ -1,18 +1,12 @@
 # Mapping Demographic Data
 
-## Maps vs. data
-
-![ArcGIS Online screenshot of census map of Somerville](media/somerville.png)
-
-![ArcGIS Online screenshot of census map of Cambridge and Somerville](media/cambridge.png)
+## Do I need geospatial data?
 
 ![QGIS screenshot of the maps underlying data table](media/table.png)
 
-## Do I need geospatial data?
+![Social Explorer screen recording of exporting a map as a .PNG](media/png.gif)
 
 ![ArcGIS Online screen recording of an unsuccessful data search](media/search.gif)
-
-![Social Explorer screen recording of exporting a map as a .PNG](media/png.gif)
 
 ![Example census map that required downloading the data](media/example.png)
 
