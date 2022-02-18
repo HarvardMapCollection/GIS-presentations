@@ -14,6 +14,8 @@
 
 ![Social Explorer screen recording of exporting a map as a .PNG](media/png.gif)
 
+![Example census map that required downloading the data](media/example.png)
+
 
 ## Planning ahead
 
