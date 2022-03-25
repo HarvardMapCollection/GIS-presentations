@@ -197,6 +197,7 @@ body {
 .reveal img,
 .reveal video,
 .reveal iframe {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   max-width: 75%;
   max-height: 95%; }
 
