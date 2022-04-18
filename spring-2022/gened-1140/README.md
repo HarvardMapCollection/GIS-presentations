@@ -28,11 +28,12 @@ Example searches:
 
 5. If you are able to succesfully add shapefile or geoJSON data layers to your QGIS project, right-click the layer in the layer list, and select `Open Attribute Table`. Explore the values in the dataset. Will this data help you make your argument?
 
-6. We will meet on Wednesday to discuss problems that came up as a class. 
-- Couldn't find data for your project in GIS formats?
-- Couldn't find any data at all?
-- Found data but had trouble making sense of it?
-- Found data but had technical issues with the mapping software?
+6. We will meet on Wednesday to discuss any problems that came up as a class. 
+Common problems:
+- Can't find data for your project as a shapefile or geoJSON?
+- Couldn't find any relevant data at all?
+- Found some data but had trouble making sense of it?
+- Found data but had technical issues with GIS and mapping software?
 
 > If you anticipate having trouble finding data or maps for your project, get a leg up with help by messaging maps@harvard.edu. 
 
