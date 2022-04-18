@@ -28,11 +28,13 @@ Example searches:
 
 5. If you are able to succesfully add shapefile or geoJSON data layers to your QGIS project, right-click the layer in the layer list, and select `Open Attribute Table`. Explore the values in the dataset, and think about if the way the data is prepared will help you make your argument.
 
-6. Come on Wednesday with questions and problems.
+6. We will meet on Wednesday to discuss problems that came up as a class. 
 - Couldn't find data for your project in GIS formats?
 - Couldn't find any data at all?
 - Found data but had trouble making sense of it?
 - Found data but had technical issues with the mapping software?
+
+7. If you anticipate having trouble finding data or maps for your project, get a leg up with help by messaging maps@harvard.edu. 
 
 ### Tips
 1. If you are able to find data in tabular format (.xlsx or .csv), open the dataset in Excel or Google sheets. Are there any mentions of geography in this dataset that could help make it "spatial"? E.g. a **column with an administrative unit code, town names, coordinates**, etc.
