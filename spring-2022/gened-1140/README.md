@@ -47,6 +47,10 @@ Example searches:
 
 3. If you can't find any spatial or structured, tabular data to support your argument, but can find figures in reports like PDFs, or other non-structured formats, think about how you might turn that into data. Can you create your own table and then follow the steps in tip #1? Can you [create your own GIS dataset in QGIS](https://docs.qgis.org/2.14/en/docs/training_manual/create_vector_data/create_new_vector.html)?
 
+## Support
+Need maps or data? maps@harvard.edu
+Questions for Belle? belle_lipton@harvard.edu.
+
 
 
 
