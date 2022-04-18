@@ -45,7 +45,7 @@ Common problems:
 2. If you are able to find data in image format, such as historic maps, how might you line these up with other datasets in the GIS software? This process is called "georeferencing". If the maps are already in the [Harvard Map Collection digital collections](https://library.harvard.edu/digital-collections), you can georeference them using [this guide](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/), and bring the georeferenced layers into QGIS. 
 > Tip: many of the maps you might want to use (especially if they are still under copyright), will not show up in the digital collections. To find maps and obtain images for your project, get started early by making an appointment by messaging maps@harvard.edu. 
 
-3. If you can't find any spatial or structured, tabular data to support your argument, but can find figures in reports like PDFs, or other non-structured formats, think about how you might turn that into data. Can you create your own table and then follow the steps in tip #1? Can you [create your own GIS dataset in QGIS](https://docs.qgis.org/2.14/en/docs/training_manual/create_vector_data/create_new_vector.html)?
+3. If you can't find any spatial or structured, tabular data to support your argument, but can find figures in reports like PDFs, or other non-structured formats, think about how you might turn them into data. Can you create your own table and then follow the steps in tip #1? Can you [create your own GIS dataset in QGIS](https://docs.qgis.org/2.14/en/docs/training_manual/create_vector_data/create_new_vector.html)?
 
 ## Support
 Need maps or data? maps@harvard.edu
