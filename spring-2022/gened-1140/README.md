@@ -4,8 +4,6 @@
 
 [Monday, April 18th Class Slides](https://harvardmapcollection.github.io/GIS-presentations/spring-2022/gened-1140)
 
-Link to recording from Monday will go here after class. 
-
 ## Homework for Wednesday
 
 1. Download QGIS using [this guide](https://harvardmapcollection.github.io/tutorials/qgis/download/).
