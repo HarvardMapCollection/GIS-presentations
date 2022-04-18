@@ -39,8 +39,8 @@ Common problems:
 ### Tips
 1. If you are able to find data in tabular format (.xlsx or .csv), open the dataset in Excel or Google sheets. Are there any mentions of geography in this dataset that could help make it "spatial"? E.g. a **column with an administrative unit code, town names, coordinates**, etc.
     - If you have a column with spatial information such as administrative units, town names, zip codes, or census tracts, you can join your table to spatial data by [performing a table join](https://www.qgistutorials.com/en/docs/performing_table_joins.html).
-    - If you have coordinates, you can display the data as points by [importing the spreadsheet into QGIS](https://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html).
-    - If you have addresses, but not coordinates, you can create coordinates by [geocoding the data](https://www.gislounge.com/how-to-geocode-addresses-using-qgis/).
+    - If your table has coordinates, you can [import the data into QGIS](https://www.qgistutorials.com/en/docs/importing_spreadsheets_csv.html).
+    - If you have addresses, but not coordinates, you can create coordinates by [geocoding](https://www.gislounge.com/how-to-geocode-addresses-using-qgis/).
 
 
 2. If you are able to find data in image format, such as historic maps, how might you line these up with other datasets in the GIS software? This process is called "georeferencing". If the maps are already in the [Harvard Map Collection digital collections](https://library.harvard.edu/digital-collections), you can georeference them using [this guide](https://harvardmapcollection.github.io/tutorials/allmaps/georeference/), and bring the georeferenced layers into QGIS. 
