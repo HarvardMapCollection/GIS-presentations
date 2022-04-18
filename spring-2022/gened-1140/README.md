@@ -26,7 +26,7 @@ Example searches:
 
 4. If you are able to find shapefiles or geoJSONs related to your topic, open them in QGIS, using the steps from [this guide](https://harvardmapcollection.github.io/tutorials/qgis/open-vector/). 
 
-5. If you are able to succesfully add shapefile or geoJSON data layers to your QGIS project, right-click the layer in the layer list, and select `Open Attribute Table`. Explore the values in the dataset, and think about if the way the data is prepared will help you make your argument.
+5. If you are able to succesfully add shapefile or geoJSON data layers to your QGIS project, right-click the layer in the layer list, and select `Open Attribute Table`. Explore the values in the dataset. Will this data help you make your argument?
 
 6. We will meet on Wednesday to discuss problems that came up as a class. 
 - Couldn't find data for your project in GIS formats?
