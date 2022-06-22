@@ -21,6 +21,7 @@
 - Once you are signed in, navigate to your profile. 
 ![Github user menu expanded to show profile option](1.png)
 - Enter your name and your profile URL to the [class Github spreadsheet](https://docs.google.com/spreadsheets/d/1eSAMFp3eQKDMFo7ClKtM-XN5YVKjWVqlEliG9B2fbDw/edit?usp=sharing).
+> Tip: You will need your g.harvard gmail account to access this spreadsheet. 
 
 
 [screenshot]
