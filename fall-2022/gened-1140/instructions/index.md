@@ -19,8 +19,8 @@
 ### Sharing on Github
 - Make a [free Github account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). 
 - Once you are signed in, navigate to your profile. 
-[Github user menu expanded to show profile option](1.png)
-- Enter your name and your profile URL to the [class Github spreadsheet](https://docs.google.com/spreadsheets/d/1eSAMFp3eQKDMFo7ClKtM-XN5YVKjWVqlEliG9B2fbDw/edit?usp=sharing)
+![Github user menu expanded to show profile option](1.png)
+- Enter your name and your profile URL to the [class Github spreadsheet](https://docs.google.com/spreadsheets/d/1eSAMFp3eQKDMFo7ClKtM-XN5YVKjWVqlEliG9B2fbDw/edit?usp=sharing).
 
 
 [screenshot]
